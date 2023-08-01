@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T15:30:16.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="Khk9aVVMHpfAVaY5sQ92" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-01T15:30:39.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="nqdOIXuRWAfIHg9yEHdv" version="21.6.6" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="2400" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
           <mxGeometry x="370" y="540" width="770" height="160" as="geometry" />
         </mxCell>
         <mxCell id="L_0Sts4csoF8o7Koaro3-25" value="[Square is Trivial Compute Square] &amp;amp; [Player Has All Wedges]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="550" width="140" height="30" as="geometry" />
+          <mxGeometry x="515" y="560" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L_0Sts4csoF8o7Koaro3-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;exitX=0.05;exitY=0.544;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="L_0Sts4csoF8o7Koaro3-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L_0Sts4csoF8o7Koaro3-39" value="&lt;b&gt;End: Go to Question-Answer Scenario&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1050" width="170" height="30" as="geometry" />
+          <mxGeometry x="605" y="1050" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
